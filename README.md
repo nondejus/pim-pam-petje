@@ -1,4 +1,4 @@
-# pim-pam-pet
+# pim-pam-petje
 https://en.wikipedia.org/wiki/Media_Park_(Hilversum)
 ![](https://github.com/nondejus/pim-pam-pet/blob/main/ArtBoard%20Image%20(223).jpg)
 https://en.wikipedia.org/wiki/Neues_Volk
